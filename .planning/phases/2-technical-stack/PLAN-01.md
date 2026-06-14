@@ -1,11 +1,17 @@
-# Phase 2: Technical Stack
+# Phase 02: Technical Stack
 
 ## Phase Goal
 Select and justify the technology stack, frameworks, and tools.
 
-## Deliverables
-Based on SPEC.md requirements.
+## Tech Stack
+TBD
+
+## Dependencies
+List all required packages for this tech stack.
+
+## Environment Config
+All required environment variables.
 
 ## Done When
-- Phase deliverables complete
-- Code committed to repository
+- All dependencies documented
+- Docker setup complete and working

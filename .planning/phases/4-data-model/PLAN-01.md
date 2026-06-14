@@ -1,11 +1,14 @@
-# Phase 4: Data Model
+# Phase 04: Data Model
 
 ## Phase Goal
 Define the data model, entities, relationships, and storage approach.
 
-## Deliverables
-Based on SPEC.md requirements.
+## Database Schema
+Define database tables based on SPEC.md data model.
+
+## Migrations
+Create migration files for all schema changes.
 
 ## Done When
-- Phase deliverables complete
-- Code committed to repository
+- Schema defined
+- Migrations created and tested
